@@ -7,3 +7,5 @@ Spectrum-*.csv
 spectrum-*.png
 waterfall-*.png
 absorbance.csv
+# Keep the documentation images
+!media/**
