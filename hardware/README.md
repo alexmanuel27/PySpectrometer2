@@ -4,7 +4,7 @@ Mechanical design files for System B.
 
 | File | Content |
 |------|---------|
-| _to be added_ | 3D-printable mount holding the pocket spectroscope, M12 lens and Pi camera on one axis (STL + source CAD) |
-| _to be added_ | 3D-printable cuvette / lamp holder (STL + source CAD) |
+| `support.stl` | 3D-printable vertical support of the optical head (overall size ≈ 35 × 28 × 121 mm) |
+| `Body3.stl` | 3D-printable mounting plate for the Pi camera / M12 lens (overall size ≈ 36 × 59 × 17 mm) |
 
 Files in this folder are released under the Apache License 2.0 of the repository.

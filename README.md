@@ -57,7 +57,7 @@ Costs as reported in Table IV of the article (EUR, approximate).
 | Single-board computer | Raspberry Pi 4 Model B | 65.00 |
 | Lens | 12 mm focal length M12 lens | 15.00 |
 | Diffraction grating | [Paton Hawksley Pocket Spectroscope](https://www.patonhawksley.com/product-page/pocket-spectroscope) | 100.00 |
-| 3D-printed enclosure + accessories | Spectroscope/lens/camera mount and cuvette holder (see `hardware/`) | 10.00 |
+| 3D-printed enclosure + accessories | Spectroscope/lens/camera mount ([`hardware/`](hardware/)) | 10.00 |
 | Wiring, PCB, power supply | Pi power supply, camera ribbon cable, wiring | 10.00 |
 | | **Total** | **215.00** |
 
