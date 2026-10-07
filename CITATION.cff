@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this set-up or software, please cite the article below and the original PySpectrometer2."
+title: "PySpectrometer2 – System B (Raspberry Pi imaging spectrometer) fork"
+type: software
+license: Apache-2.0
+repository-code: "https://gitlab.com/fablab-ulb/projects/cuban-water-lab/pyspectrometer2"
+authors:
+  - family-names: Wright
+    given-names: Les
+  - family-names: Rivera-Rivera
+    given-names: Alex M.
+  - family-names: Martinez-Ortiz
+    given-names: Daniela
+  - family-names: Quitin
+    given-names: François
+  - family-names: Terwagne
+    given-names: Denis
+  - family-names: Nicolis
+    given-names: Stamatios C.
+  - family-names: Altshuler
+    given-names: Ernesto
+  - family-names: Campo
+    given-names: Alexandre
+references:
+  - type: software
+    title: PySpectrometer2
+    authors:
+      - family-names: Wright
+        given-names: Les
+    year: 2022
+    url: "https://github.com/leswright1977/PySpectrometer2"
+    license: Apache-2.0
+preferred-citation:
+  type: article
+  title: "Low-Cost Spectrophotometers: A Comparative Evaluation of Open-Source Architectures"
+  authors:
+    - family-names: Rivera-Rivera
+      given-names: Alex M.
+    - family-names: Martinez-Ortiz
+      given-names: Daniela
+    - family-names: Quitin
+      given-names: François
+    - family-names: Terwagne
+      given-names: Denis
+    - family-names: Nicolis
+      given-names: Stamatios C.
+    - family-names: Altshuler
+      given-names: Ernesto
+    - family-names: Campo
+      given-names: Alexandre
+  year: 2026
+  # TODO: fill in once available
+  # identifiers:
+  #   - type: other
+  #     value: "arXiv:XXXX.XXXXX"
+  #   - type: doi
+  #     value: "10.XXXX/XXXXX"
