@@ -1,0 +1,15 @@
+PySpectrometer2 – System B fork
+Copyright 2022 Les Wright (original PySpectrometer2,
+https://github.com/leswright1977/PySpectrometer2), licensed under the Apache License 2.0.
+
+This fork is maintained by the Fab Lab ULB / Cuban Water Lab team for the article
+"Low-Cost Spectrophotometers: A Comparative Evaluation of Open-Source Architectures"
+(A. M. Rivera-Rivera et al., 2026).
+
+Files added in this fork (not part of the original work):
+  src/absorbance.py, NOTICE, CITATION.cff, hardware/, media/setup-system-b.jpg, .gitignore
+  README.md (rewritten; the original README is preserved in docs/ORIGINAL_README.md)
+
+The original source files in src/ (PySpectrometer2-Picam2-v1.0.py,
+PySpectrometer2-USB-v1.0.py, specFunctions.py) are unmodified; the empty
+src/filelist.txt was removed.
