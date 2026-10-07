@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+# Per-instrument files written at run time
+caldata.txt
+Spectrum-*.csv
+spectrum-*.png
+waterfall-*.png
+absorbance.csv
